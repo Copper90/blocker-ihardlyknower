@@ -1,5 +1,5 @@
 # blocker-ihardlyknower
-This repository is a structured documentation of vulnerabilities and the mechanisms behind firewall restrictions.
+This repository is a documentation of hardware and software application environments, focusing on the mechanisms, limitations, and configurations of restricted systems.
 
 ## WARNING!
-I am not responsible for what you decide to do with this repository. This repository was made for education and I do not condone bypassing firewalls and restrictions. This is a proof of concept.
+This repository was created strictly for educational purposes and proof-of-concept analysis. The author does not condone or encourage violating institutional acceptable use policies or bypassing administrative controls. You assume all responsibility and liability for how you utilize this information.
